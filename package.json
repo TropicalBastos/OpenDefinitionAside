@@ -2,12 +2,13 @@
 	"name": "opendefinitionaside",
 	"displayName": "Open Definition Aside",
 	"description": "Adds the Open Definition Aside command to the editor context menu",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "tropicalbastos",
 	"repository": "https://github.com/TropicalBastos/OpenDefinitionAside",
 	"engines": {
 		"vscode": "^1.34.0"
 	},
+	"icon": "res/icon.png",
 	"categories": [
 		"Other"
 	],

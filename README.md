@@ -6,7 +6,7 @@ Convenient way of splitting your workspace - split the definition to the side by
 
 Alternatively you can use the key binding Alt+Ctrl+0 for Windows/Mac/Linux
 
-<img src="https://github.com/TropicalBastos/OpenDefinitionAside/blob/master/res/screenshot.png" width="400" />
+<img src="https://raw.githubusercontent.com/TropicalBastos/OpenDefinitionAside/master/res/screenshot.png" width="400" />
 
 
 ## Requirements
