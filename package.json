@@ -1,6 +1,6 @@
 {
-	"name": "opendefinitionasidemenu",
-	"displayName": "OpenDefinitionAsideMenu",
+	"name": "opendefinitionaside",
+	"displayName": "Open Definition Aside",
 	"description": "Adds the Open Definition Aside command to the editor context menu",
 	"version": "1.0.0",
 	"engines": {
