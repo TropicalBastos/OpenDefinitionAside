@@ -4,6 +4,7 @@
 	"description": "Adds the Open Definition Aside command to the editor context menu",
 	"version": "1.0.0",
 	"publisher": "tropicalbastos",
+	"repository": "https://github.com/TropicalBastos/OpenDefinitionAside",
 	"engines": {
 		"vscode": "^1.34.0"
 	},
