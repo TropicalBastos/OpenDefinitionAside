@@ -1,4 +1,4 @@
-# Open Definition Aside Menu Item README
+# Open Definition Aside
 
 ## Features
 
