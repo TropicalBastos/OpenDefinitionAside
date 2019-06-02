@@ -28,7 +28,13 @@
 					"group": "navigation@5"
 				}
 			]
-		}
+		},
+		"keybindings": [{
+			"command": "extension.addOpenAsideToContextMenu",
+			"key": "alt+ctrl+0",
+			"mac": "alt+ctrl+0",
+			"when": "editorTextFocus"
+		}]
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
