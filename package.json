@@ -2,7 +2,7 @@
 	"name": "opendefinitionaside",
 	"displayName": "Open Definition Aside",
 	"description": "Adds the Open Definition Aside command to the editor context menu",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "tropicalbastos",
 	"repository": "https://github.com/TropicalBastos/OpenDefinitionAside",
 	"engines": {
